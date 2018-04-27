@@ -17,7 +17,6 @@ Added from local
 
 ----------------------------------------------------------------------------------------------
 
-
 Content Edit from git Hub web
 Content Edit from git Hub web
 Content Edit from git Hub web
@@ -27,3 +26,5 @@ Content Edit from git Hub web
 Content Edit from git Hub web
 Content Edit from git Hub web
 ---------------------------------------------------------------------------------------------------------
+
+<img class="alignnone size-medium wp-image-27" src="http://www.multisite2.com/wp-content/uploads/sites/2/2018/04/800px-Flower_poster_2-226x300.jpg" alt="" width="226" height="300" />
