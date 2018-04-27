@@ -1,12 +1,11 @@
 ---
 ID: 1
 post_title: Hello world!
-author: admin
+author: second
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.multisite.com/2018/04/26/hello-world/
+permalink: http://www.multisite2.com/hello-world/
 published: true
-post_date: 2018-04-26 03:29:07
+post_date: 2018-04-26 03:44:05
 ---
-Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+Welcome to <a href="http://www.multisite.com/">Multisite First Domain Sites</a>. This is your first post. Edit or delete it, then start blogging!
